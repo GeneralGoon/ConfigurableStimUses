@@ -24,7 +24,7 @@ class Mod implements IPostDBLoadMod
                 item._props.MaxHpResource = this.modConfig.uses;
             }
         }
-        tables.templates.items["tables.templates.items"]._props.MaxHpResource = this.modConfig.uses;
+        tables.templates.items["544fb3f34bdc2d03748b456a"]._props.MaxHpResource = this.modConfig.uses;
     }
 }
 
